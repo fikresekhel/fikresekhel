@@ -2,7 +2,7 @@
 
 **Formal guarantees for security-critical code.**
 
-I prove the properties that scanners and AI review can only estimate — on the
+We prove the properties that scanners and AI review can only estimate — on the
 small, critical core where *probably safe* is not good enough: cryptography,
 authorization, the money path, and the AI-generated code everyone is now
 shipping. A 97%-precision scanner ranks the findings that exist. A proof rules
